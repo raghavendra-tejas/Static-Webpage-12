@@ -1,0 +1,28 @@
+#navbar {
+  display: flex;
+  height: 100px;
+  background-color: #636c79;
+  align-items: center;
+  justify-content: space-between;
+  margin: 0 -150px;
+  padding: 0 150px;
+}
+
+.nav-mid a {
+  margin-right: 50px;
+  color: #ffffff;
+  font-family: 'Roboto', sans-serif;
+  font-size: 15px;
+}
+
+.nav-right button {
+  background-color: transparent;
+  width: 150px;
+  height: 40px;
+  color: #ffffff;
+  border-color: #7b8087;
+  box-shadow: 0;
+  cursor: pointer;
+  font-family: 'Roboto', sans-serif;
+  font-size: 15px;
+}
