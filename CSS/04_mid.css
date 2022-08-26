@@ -194,10 +194,11 @@
 /* Mid Section 5 */
 .mid-5-top {
   display: flex;
-  height: 120px;
+  height: 100%;
   align-items: center;
   justify-content: space-between;
   margin: 50px 0;
+  /* background-color: aqua; */
 }
 
 .mid-5-top h2 {
@@ -209,12 +210,13 @@
   color: #707070;
   font-size: 20px;
   line-height: 1.7;
+  padding-left: 200px;
+  /* background-color: violet; */
 }
 
 .mid-5-center {
   display: flex;
-  height: 600px;
-  
+  height: 100%;
 }
 
 .mid-5-center-sub {
@@ -225,7 +227,7 @@
 .mid-5-center-sub img {
   object-fit: fill;
   width: 100%;
-  height: 65vh;
+  height: 80vh;
 }
 
 .mid-5-center-sub h4 {
@@ -242,7 +244,7 @@
 
 .mid-5-bottom {
   text-align: center;
-  padding: 50px 0 100px 0;
+  margin: 50px 0;
 }
 
 .mid-5-bottom button {
