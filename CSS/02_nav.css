@@ -1,11 +1,12 @@
 #navbar {
   display: flex;
-  height: 100px;
+  height: 150px;
   background-color: #636c79;
   align-items: center;
   justify-content: space-between;
   margin: 0 -150px;
   padding: 0 150px;
+  background-color: tomato;
 }
 
 .nav-mid a {
