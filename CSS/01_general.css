@@ -9,7 +9,7 @@
     box-sizing: border-box;
 }
 
-body {
-    margin: 0 100px;
+.body {
     overflow-x: hidden;
+    padding: 0 50px;
 }
